@@ -1,0 +1,23 @@
+{
+  "id": "1989387",
+  "name": "login-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3129526",
+      "name": "password",
+      "font_class": "wodemima",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "9961613",
+      "name": "see user",
+      "font_class": "seeuser",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
